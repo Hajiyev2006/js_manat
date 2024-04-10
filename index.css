@@ -1,0 +1,51 @@
+* {
+    background-color: teal;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    max-width: 95%;
+}
+
+.manat1 img {
+    width: 50%;
+    height: 300px;
+}
+
+.manat5 img {
+    width: 55%;
+    height: 300px;
+}
+
+.manat10 img {
+    width: 60%;
+    height: 300px;
+}
+
+.manat20 img {
+    width: 62%;
+    height: 300px;
+}
+
+.manat50 img {
+    width: 65%;
+    height: 300px;
+}
+
+.manat100 img {
+    width: 68%;
+    height: 350px;
+}
+
+.manat200 img {
+    width: 72%;
+    height: 350px;
+}
+
+.manat500 img {
+    width: 75%;
+    height: 350px;
+}
